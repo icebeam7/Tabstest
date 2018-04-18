@@ -13,7 +13,7 @@ namespace Tabstest
 		{
 			InitializeComponent();
 
-			MainPage = new Tabstest.MainPage();
+			MainPage = new TestControl();
 		}
 
 		protected override void OnStart ()
